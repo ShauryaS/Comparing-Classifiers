@@ -35,6 +35,6 @@ The project successfully met the business criteria, providing a classifier that 
 2. **Hardware Upgrade:** Due to hardware limitations, explore options like better GPUs or cloud computing for testing more complex models. This is especially important for when using SVM with Grid Search, as it takes a lot of time. 
 
 ## Conclusion
-The project successfully addressed the business goals, providing the bank with an accurate and precise classifier to determine if a customer would subscribe to a deposit during a marketing campaign. The bank should specifically target customers they haven't contacted in many days, especially customers never contacted, in the month of October with a telephone. They should contact customers when the bank has a large number of employees and a large euribor 3 month rate. 
+The project successfully addressed the business goals, providing the bank with an accurate and precise classifier to determine if a customer would subscribe to a deposit during a marketing campaign. The bank should specifically target customers they have contacted recently in the month of October with a telephone. They should contact customers when there are low number of employees or a low euribor 3 month rate.
 
-Future improvements include refining the model and exploring advanced computing resources for more sophisticated analyses. 
+Future improvements include refining the model and exploring advanced computing resources for more sophisticated analyses.
